@@ -37,7 +37,8 @@ The maximum and minimum from the outlier removed data is found to get the range 
 for a particular category based on the conditions imposed. 
 ```
 
-### Inter-Quartile Range(IQR) Model ![IQR Method Example](https://github.com/VIKGO123/Outlier-Detection-using-Boosting/blob/master/raw%20images/IQR Method Example.png)
+### Inter-Quartile Range(IQR) Model
+![IQR Method Example](https://github.com/VIKGO123/Outlier-Detection-using-Boosting/blob/master/raw%20images/IQR Method Example.png)
 
 ```
 def outliers_iqr(ys):
