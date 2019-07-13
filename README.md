@@ -81,6 +81,14 @@ Models used in Boosting (For Outlier Elimination)
 ### Model Architecture
 ![Model Architecture](https://github.com/VIKGO123/Outlier-Detection-using-Boosting/blob/master/raw%20images/model_arch.JPG)
 
+### Initial Dataset
+![intial dataset](https://github.com/VIKGO123/Outlier-Detection-using-Boosting/blob/master/raw%20images/initial_dataset.JPG)
+
+### Final Result
+![final result](https://github.com/VIKGO123/Outlier-Detection-using-Boosting/blob/master/raw%20images/final_result.JPG)
+
+
+
 
 
 
