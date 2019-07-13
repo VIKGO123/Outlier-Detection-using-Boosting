@@ -53,6 +53,8 @@ def outliers_iqr(ys):
     return result
 ```
 ### Isolation Forest Model
+![Isolation Forest Model](https://github.com/VIKGO123/Outlier-Detection-using-Boosting/blob/master/raw%20images/IQR%20Method%20Example.png)
+
 ```
 from sklearn.ensemble import IsolationForest
 def isolationForest(ys):
