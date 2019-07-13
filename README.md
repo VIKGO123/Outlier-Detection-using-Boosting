@@ -38,7 +38,7 @@ for a particular category based on the conditions imposed.
 ```
 
 ### Inter-Quartile Range(IQR) Model
-![IQR Method Example](github.com/VIKGO123/Outlier-Detection-using-Boosting/blob/master/raw%20images/IQR%20Method%20Example.png)
+![IQR Method Example](https://github.com/VIKGO123/Outlier-Detection-using-Boosting/blob/master/raw%20images/IQR%20Method%20Example.png)
 
 ```
 def outliers_iqr(ys):
