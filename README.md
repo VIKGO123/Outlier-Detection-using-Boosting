@@ -10,7 +10,7 @@ Determination of Minimum and Maximum Prices of 100 category items based on given
 ## Authors
 1.[Vikash Pathak](https://vikgo123.github.io/)
 
-2.[Kiran](https://github.com/Apollo9999)
+2.[Kiran Kumar](https://github.com/Apollo9999)
 
 
 ### Prerequisites
