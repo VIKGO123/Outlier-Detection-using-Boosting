@@ -37,6 +37,37 @@ The maximum and minimum from the outlier removed data is found to get the range 
 for a particular category based on the conditions imposed. 
 ```
 
+### Inter-Quartile Range(IQR) Model
+```
+def outliers_iqr(ys):
+    quartile_1, quartile_3 = np.percentile(ys, [25, 75])
+    iqr = quartile_3 - quartile_1
+    lower_bound = quartile_1 - (iqr * 1.5)
+    upper_bound = quartile_3 + (iqr * 1.5)
+    result=[]
+    for i in ys:
+      if(i<=upper_bound and i>=lower_bound):
+        result.append(i)
+    return result
+```
+### Isolation Forest Model
+```
+from sklearn.ensemble import IsolationForest
+def isolationForest(ys):
+  clf = IsolationForest(max_samples=100, random_state=42)
+
+  clf.fit(ys)
+  output_table =(clf.predict(ys))
+  c=0
+  result=[]
+  for i in output_table:
+    if(i!=-1):
+      result.append(ys[c,0])
+    c=c+1
+  return result
+```
+
+
 ### Category-Unit wise three most common prices
 
 
