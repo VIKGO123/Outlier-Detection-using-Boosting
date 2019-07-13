@@ -29,7 +29,7 @@ IndiaMART Phase2 Dataset
 Boosting ensemble technique with two models has been used for outlier detection and removal.
 
 The two models are:
-1. Inter-quartile range(IQR) also called Box-Plot method
+1. Inter-quartile range(IQR) also called Box-Plot method 
 2. Isolation Forest method
 
 Dataset is first passed through IQR model and then through Isolation forest model.
@@ -37,7 +37,8 @@ The maximum and minimum from the outlier removed data is found to get the range 
 for a particular category based on the conditions imposed. 
 ```
 
-### Inter-Quartile Range(IQR) Model
+### Inter-Quartile Range(IQR) Model ![IQR Method Example](https://github.com/VIKGO123/Outlier-Detection-using-Boosting/blob/master/raw%20images/IQR Method Example.png)
+
 ```
 def outliers_iqr(ys):
     quartile_1, quartile_3 = np.percentile(ys, [25, 75])
