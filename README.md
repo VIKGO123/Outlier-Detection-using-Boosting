@@ -20,7 +20,7 @@ IndiaMART Phase2 Dataset
  [Phase2 Dataset Link](https://drive.google.com/open?id=1WdCNbjhlZgGkVnGvfforOJhS0961MMd6)
 
 
-### Boosting for Outlier Elimination
+### Efficient Boosting for Outlier Elimination
 
 ```
 Boosting ensemble technique with two models has been used for outlier detection and removal.
