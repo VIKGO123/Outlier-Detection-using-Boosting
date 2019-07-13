@@ -79,7 +79,7 @@ Models used in Boosting (For Outlier Elimination)
 ```
 
 ### Model Architecture
-![Model Architecture](http://url/to/img.png)
+![Model Architecture](http://raw images/Model.JPG)
 
 
 
