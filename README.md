@@ -25,17 +25,8 @@ The two models are:
 Dataset is first passed through IQR model and then through Isolation forest model.
 The maximum and minimum from the outlier removed data is found to get the range of price 
 for a particular category based on the conditions imposed. 
-```
 
-
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
+### Category-Unit wise three most common prices
 
 Explain how to run the automated tests for this system
 
