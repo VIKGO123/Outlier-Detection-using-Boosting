@@ -13,17 +13,19 @@ IndiaMART Phase2 Dataset
  [Phase2 Dataset Link](https://drive.google.com/open?id=1WdCNbjhlZgGkVnGvfforOJhS0961MMd6)
 
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+### Boosting for Outlier Elimination
 
 ```
-Give the example
+Boosting ensemble technique with two models has been used for outlier detection and removal.
+
+The two models are:
+1. Inter-quartile range(IQR) also called Box-Plot method
+2. Isolation Forest method
+
+Dataset is first passed through IQR model and then through Isolation forest model.The maximum and minimum from the outlier removed data is found to get the range of price for a particular category based on the conditions imposed. 
 ```
 
-And repeat
+
 
 ```
 until finished
