@@ -79,7 +79,7 @@ Models used in Boosting (For Outlier Elimination)
 ```
 
 ### Model Architecture
-![Model Architecture](https://github.com/VIKGO123/Outlier-Detection-using-Boosting/tree/master/raw%20images/model_arch.JPG)
+![Model Architecture](https://raw.githubusercontent.com/VIKGO123/Outlier-Detection-using-Boosting/tree/master/raw images/model_arch.JPG)
 
 
 
