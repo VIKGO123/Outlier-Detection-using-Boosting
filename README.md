@@ -22,7 +22,9 @@ The two models are:
 1. Inter-quartile range(IQR) also called Box-Plot method
 2. Isolation Forest method
 
-Dataset is first passed through IQR model and then through Isolation forest model.The maximum and minimum from the outlier removed data is found to get the range of price for a particular category based on the conditions imposed. 
+Dataset is first passed through IQR model and then through Isolation forest model.
+The maximum and minimum from the outlier removed data is found to get the range of price 
+for a particular category based on the conditions imposed. 
 ```
 
 
