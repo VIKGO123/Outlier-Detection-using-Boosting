@@ -25,10 +25,21 @@ The two models are:
 Dataset is first passed through IQR model and then through Isolation forest model.
 The maximum and minimum from the outlier removed data is found to get the range of price 
 for a particular category based on the conditions imposed. 
+```
 
 ### Category-Unit wise three most common prices
 
-Explain how to run the automated tests for this system
+
+Counter function of python's Collection module is used on outlier removed data to get category-unit
+wise three most common prices.
+```
+import collections
+def mostcommon(a):
+  counter=collections.Counter(a)
+  l=counter.most_common(3)
+  
+```
+
 
 ### Break down into end to end tests
 
