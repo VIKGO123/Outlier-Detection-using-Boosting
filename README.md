@@ -51,15 +51,28 @@ Models used in Boosting (For Outlier Elimination)
 1. Inter-quartile Range or Box-Plot Method
 2. Isolation Forest Method
 ```
-### Language Used
+### Tech Stack
+
+#### Programming Language
 ```
-Python
+1.Python
 ```
-### Coding Platform Used
+#### Development Environment
 ```
-Google Colaboratory Notebook
+1.Google Colaboratory Notebook
+2.Python 3.x
+
 ```
-### Tech
+#### Python Libraries
+```
+1.Numpy
+2.Pandas
+3.Sklearn
+4.Collections
+
+```
+
+
 
 
 
