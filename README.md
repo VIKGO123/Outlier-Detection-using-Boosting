@@ -1,6 +1,6 @@
 # Project Title
 
-Range Determination using Boosting
+Range Determination using Efficient Boosting Method
 
 ## Project Description
 
