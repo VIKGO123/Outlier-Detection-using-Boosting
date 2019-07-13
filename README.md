@@ -6,6 +6,12 @@ Range Determination using Boosting
 
 Determination of Minimum and Maximum Prices of 100 category items based on given conditions, using the method of Boosting for removing outliers and then finding minimum and maximum prices for different categories.Also finding three most common prices for different categories unit-wise using python's collection library.
 
+
+## AUTHORS
+1.[Vikash Pathak](https://vikgo123.github.io/)
+2.
+
+
 ### Prerequisites
 
 IndiaMART Phase2 Dataset
