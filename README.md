@@ -1,6 +1,6 @@
 # Project Title
 
-Product Range Determination using Efficient Boosting Method
+Product Price Range Determination using Efficient Boosting Method
 
 ## Project Description
 
