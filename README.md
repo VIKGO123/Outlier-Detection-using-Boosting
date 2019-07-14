@@ -6,7 +6,7 @@ Product Range Determination using Efficient Boosting Method
 
 Determination of Minimum and Maximum Prices of 100 category items based on given conditions, using the method of Boosting for removing outliers and then finding minimum and maximum prices for different categories.Also finding three most common prices for different categories unit-wise using python's collection library.
  
- Outlier Detection Unsupervised Methods employed 
+Unsupervised Methods employed for Outlier Detection  
 
 
 
